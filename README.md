@@ -2,7 +2,7 @@
 - 👀 I’m interested in biological data integration
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on biological networks
-- 📫 How to reach me: scontreras <at> ibio.cl
+- 📫 How to reach me: scontreras@ibio.cl
 
 <!---
 Cold7/Cold7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
